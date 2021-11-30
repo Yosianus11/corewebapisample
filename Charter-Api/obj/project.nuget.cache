@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wx4i8amWSjCTbksNS1RSGHR0KHipM+mq/QWBF1cNXW6CbG/l0XMEGhx5t46P5Ngm3n4XmkF4VXm6uApNQU5AjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yosia\\OneDrive\\Documents\\OCBC NISP\\Bootcamp\\Sesi13\\Charter-Api\\Charter-Api\\Charter-Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosia\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
